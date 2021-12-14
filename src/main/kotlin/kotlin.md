@@ -9,7 +9,7 @@ My purpose for writing this software was to get a basic fundamental of the langu
 ### Youtube video
 [kotlin](https://youtu.be/8AuKvoLULR8)
 
-# Development Environment
+# Development EnvironmentS
 
 For this project, I was able to learn and implement intellij  and the programming language is 
 Kotlin. The libraries used are the external libraries associated with kotlin

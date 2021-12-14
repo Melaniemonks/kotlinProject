@@ -9,7 +9,7 @@ fun main(args: Array<String>) {
     print("Please Enter Age: ")
     var age = readLine()?.toInt()
 
-    //operators
+    //operator
 
     if (age != null) {
         if (age < 18) {
