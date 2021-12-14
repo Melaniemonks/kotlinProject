@@ -38,7 +38,7 @@ fun main(args: Array<String>) {
 
     println()
 
-    //Functions
+    //Function
     println("lets play a mad lib game. fill in the following:")
     game()
 }
